@@ -1,0 +1,7 @@
+API_HOST: 'xxxx.xxx.com'
+API_SCHEME: https
+SSL_VERIFY_PEER: true
+accountId: '1'
+colored_output: true
+envId: '1'
+view: json

@@ -3,7 +3,7 @@
 
 Example script that uses a template to create the same farm role across multiple farms.
 
-### exmplate teamplate file
+### example template file
 ```
 {
    "networking": {

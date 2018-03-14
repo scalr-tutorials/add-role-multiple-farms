@@ -4,7 +4,7 @@
 Example script that uses a template to create the same farm role across multiple farms.
 
 ### exmplate teamplate file
-
+```
 {
    "networking": {
     "networks": [
@@ -46,7 +46,7 @@ Example script that uses a template to create the same farm role across multiple
    },
    "cloudPlatform": "ec2"
  }
-
+```
 ### Update the variables used to match your environment
 export key_id=xxxx
 export secret_key=xxx

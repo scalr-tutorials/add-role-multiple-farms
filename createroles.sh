@@ -7,8 +7,9 @@ export cloudLocation='us-west-1'
 export subnet='subnet-d11111'
 export insttype='t2.small'
 export farmSG='sg-0000000'
+export FName='FarmRoleAlias'
 
-# set farm ids to sue
+# set farm ids
 farms=( 2650 2651 )
 
 # build the role with variables

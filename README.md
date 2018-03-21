@@ -1,10 +1,8 @@
 # Description 
 This script will allow users to add a single role to multiple farms.
 
-
-Example script that uses a template to create the same farm role across multiple farms.
-
-### example template file
+### Example template file
+Example script that uses a template to create the same farm role across multiple farms:
 ```
 {
    "networking": {
